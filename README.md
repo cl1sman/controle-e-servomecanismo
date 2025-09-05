@@ -35,14 +35,18 @@ O objetivo é facilitar os estudos, centralizar materiais e criar um espaço col
 
 ---
 
-## 🎥 Aulas no YouTube
-Aqui estão alguns vídeos que ajudam a entender os conceitos vistos na disciplina.  
+## 🎥 Videoaulas
+
+Aqui estão alguns vídeos que ajudam a entender os conceitos vistos na disciplina.
 
 - [📺 Teoria de Controle](https://youtube.com/playlist?list=PLbUF_YEJ9pVnW2pHl5tXAW0DDoP4U08LN&si=XuLtzGDQ6Quy_Zel)  
 - [📺 Sistemas de Controle 1](https://youtube.com/playlist?list=PLcEWEOR2ug-Z5-y2FEdUz0KvKc7QmriTc&si=nGHak9KWSehUdY3u)  
+- [📺 Controle Moderno - Representação e Controle de Sistemas em Espaço de Estados](https://www.youtube.com/playlist?list=PLnZKTc3PEaPZJQbZG17SyXV8KyHWkRQ1T)  
+- [📺 Sistemas de Controle: teoria, dicas, exercícios](https://www.youtube.com/playlist?list=PLSIvqouOERD1zizfB_cdcDtc_hUmRBpSC)  
 - [📺 Introduction to Control EE313](https://youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-&si=8pdaZKXaxN0m5Qex)  
-- [📺 Controle System](https://youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ&si=ZUbr0huVfsW0bQ3-)  
+- [📺 Control System](https://youtube.com/playlist?list=PLWPirh4EWFpGpH_Rb6Q4iQ6vGGRA6MORZ&si=ZUbr0huVfsW0bQ3-)  
 - [📺 Classical Control Theory](https://youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&si=Kg-1GeDsWXSKE7X9)  
+- [📺 Control Systems](https://www.youtube.com/playlist?list=PLfYdTiQCV_p4YZNJWExM-5_g0fk9bHDL8)
 
 <!-- *(adicione ou substitua com os links que achar mais úteis)*   -->
 
@@ -69,5 +73,5 @@ Sugestões de contribuição:
 ---
 
 ## 📎 Créditos
-Este repositório é fruto da colaboração de alunos da **UFMS** na disciplina de Controle e Servomecanismos.  
+Este repositório é fruto da colaboração de alunos da **[UFMS](https://ufms.br)** na disciplina de Controle e Servomecanismos.  
 Contribuições são sempre bem-vindas! 🚀  
